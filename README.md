@@ -1,0 +1,2 @@
+# cordovaRepo
+Misc Cordova repository
